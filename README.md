@@ -1,1 +1,3 @@
 # cis-700-hw1-text-adventures
+
+My custom text adventure game is a humorous murder mystery game. It takes place at my fictional version of UPenn and the characters in the game are myself, some classmates, some faculty. I essentially modeled it after the famous game, Clue. "Mr.Body", completely original name, has been killed! Your goal is to find out how he died  and tell the police so you can get back to studying! I chose this topic because out of all the ideas I had (zombie apocalypse, medieval times, etc.), I believe this one will capture and hold the attention of my target audience (i.e. students and faculty at UPenn) the most. As my high school English teacher once said, "What is everyone interested in? THEMSELVES of course!" :)

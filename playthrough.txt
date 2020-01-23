@@ -1,0 +1,34 @@
+examine body
+talk to police
+talk to michael
+talk to becca
+investigate body closely
+take strange object
+examine strange object
+talk to ccb
+take key
+go east
+examine emails
+read emails
+take flashlight
+go west
+talk to ccb
+talk to ccb
+go down
+turn on flashlight
+look
+examine shoeprint
+go down
+examine journal
+take journal
+go west
+talk to daphne
+talk to daphne
+go east
+talk to michael
+look
+hit michael with flashlight
+go up
+talk to becca
+threaten becca
+talk to police
